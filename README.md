@@ -1,6 +1,6 @@
 # 📚 Artigos e Leituras Técnicas
 
-Este repositório reúne artigos técnicos que utilizei para estudo e aprofundamento em programação, desenvolvimento de software e tecnologia da informação.
+Este repositório reúne artigos técnicos de minha autoria, publicados na plataforma DevMedia, desenvolvidos com foco em programação, desenvolvimento de software, tecnologia da informação e ferramentas utilizadas no dia a dia do desenvolvedor.
 
 ## ☕ Java
 - [Java EE: Construa uma Aplicação Completa Java EE](https://www.devmedia.com.br/java-ee-construa-uma-aplicacao-completa-java-ee/37567)
